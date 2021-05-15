@@ -14,4 +14,4 @@
 ## Общая теория
 Ссылка на неплохую статью про балансирующего робота: https://habr.com/ru/post/220989/
 
-![alt text](balansing_robot/image/image_main_scheme.png)
+![alt text](image/image_main_scheme.png)
