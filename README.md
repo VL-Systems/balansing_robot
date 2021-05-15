@@ -45,4 +45,4 @@
 ![alt text](image/arduino.jpg)
 
 А так же карту таймеров в конкретной модели Arduino:
-![alt text](image/timers.jpg)
+![alt text](image/timers.png)
