@@ -13,4 +13,4 @@
 
 ## Общая теория
 
-![alt text](https://habrastorage.org/getpro/habr/post_images/6a4/a3f/b6b/6a4a3fb6bafd82908ad62633580151c6.png)
+![alt text](https://hsto.org/getpro/habr/post_images/6a4/a3f/b6b/6a4a3fb6bafd82908ad62633580151c6.png)
